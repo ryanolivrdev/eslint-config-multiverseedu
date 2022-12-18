@@ -22,7 +22,7 @@ npm i -D eslint @ryanolivrdev/multiverse-eslint-config || yarn add -D eslint @ry
 
 ```
 {
-  "extends": " @ryanolivrdev/multiverse-eslint-config/react"
+  "extends": "@ryanolivrdev/multiverse-eslint-config/react"
 }
 ```
 
@@ -30,7 +30,7 @@ npm i -D eslint @ryanolivrdev/multiverse-eslint-config || yarn add -D eslint @ry
 
 ```
 {
-  "extends": " @ryanolivrdev/multiverse-eslint-config/node"
+  "extends": "@ryanolivrdev/multiverse-eslint-config/node"
 }
 ```
 
