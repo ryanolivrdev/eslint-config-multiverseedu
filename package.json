@@ -1,6 +1,6 @@
 {
   "name": "@ryanolivrdev/multiverse-eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "Configuração ESLint usada pela Multiverse Edu.",
   "main": "index.js",
@@ -31,6 +31,9 @@
   "peerDependenciesMeta": {
     "typescript": {
       "optional": true
+    },
+    "publishConfig": {
+      "@ryanolivrdev:registry": "https://npm.pkg.github.com"
     }
   }
 }
